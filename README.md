@@ -60,3 +60,20 @@ To navigate to the `exchange` branch, run `git checkout exchange`
 
 ### The `password` branch
 It's exactly the same as the `master` branch, Idk why it should exist
+
+## 3. Final project
+
+The final App should has the following pages
+
+* Home page
+<img width="1003" alt="Screenshot 2024-10-25 at 14 10 59" src="https://github.com/user-attachments/assets/e076b10d-a328-42b1-be7a-b0d687860bf4">
+
+* Counter
+<img width="1394" alt="Screenshot 2024-10-25 at 14 11 31" src="https://github.com/user-attachments/assets/f41d93e3-5fee-4f01-a090-962635f662c5">
+
+* Exchange rate App
+<img width="1416" alt="Screenshot 2024-10-25 at 14 12 36" src="https://github.com/user-attachments/assets/3ae2c74c-a827-4b15-85a3-806fb41b19f2">
+
+* Password strength checker
+<img width="1419" alt="Screenshot 2024-10-25 at 14 13 08" src="https://github.com/user-attachments/assets/7638100c-7891-40d9-9b21-99101c235837">
+
